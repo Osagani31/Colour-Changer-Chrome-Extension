@@ -1,0 +1,36 @@
+body {
+  width: 220px;
+  padding: 15px;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+button {
+  margin: 8px 0;
+  width: 100%;
+  padding: 10px;
+  font-weight: bold;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+#dark {
+  background-color: #1e1e1e;
+  color: white;
+}
+
+#pink {
+  background-color: #ffc0cb;
+  color: black;
+}
+
+#green {
+  background-color: #d4fcdc;
+  color: black;
+}
+
+#purple {
+  background-color: #e6ccff;
+  color: black;
+}

@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "Pretty Background Changer",
+  "version": "1.0",
+  "description": "Change page background to dark, light pink, green or purple.",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": ["scripting", "activeTab"],
+  "host_permissions": ["<all_urls>"]
+}
